@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Scala/Java
+- 🌱 I’m currently learning Golang/Python
 - 📫 How to reach me: quocanh1897@gmail.com
 - 🤟 My personal blog: http://anhnq.me/
 
