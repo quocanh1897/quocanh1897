@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on Scala/Java
 - 🌱 I’m currently learning Golang/Python
 - 📫 How to reach me: quocanh1897@gmail.com
-- 🤟 My personal blog: http://blog.binscode.tech
+- 🤟 My personal blog: http://blog.binscode.site
 
 ![stats](https://github-readme-stats.vercel.app/api?username=quocanh1897&show_icons=true&theme=merko)
